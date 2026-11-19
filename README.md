@@ -1,12 +1,12 @@
 # GitHub-compatible git forge
 
-[![make.fun](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/competitions/github-core-clone-01)
-[![Rank](https://make.fun/badge/HALCYON1803/github-core-clone-01/rank.svg)](https://make.fun/competitions/github-core-clone-01)
-[![Reward](https://make.fun/badge/github-core-clone-01/reward.svg)](https://make.fun/competitions/github-core-clone-01)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/HALCYON1803/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/HALCYON1803/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A GitHub-compatible git forge in a single TypeScript file — smart-HTTP git
 (upload-pack v0/v2, receive-pack), REST v3, GraphQL v4 and MCP — built for the
-[make.fun github-core-clone-01 bounty](https://make.fun/competitions/github-core-clone-01).
+[make.fun github-core-clone-01 bounty](https://make.fun/bounty/github-core-clone-01).
 
 ## Quick start
 
